@@ -1,6 +1,6 @@
 !-- 🔥 Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Jeshni%20Jeshni%20V&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Jeshni%20JS%20&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- ⚡ Typing Animation -->
 
